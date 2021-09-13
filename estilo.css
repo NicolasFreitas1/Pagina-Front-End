@@ -1,0 +1,45 @@
+.imagem{
+    width: 111px;
+    height: 87px;
+    
+   
+}
+#menu{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}
+#informacao{
+    margin-top: 0.2%;
+    margin-left: 15%;
+    width: 20%;
+    height: 20%;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+#texto{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: white;
+	}
+a:hover {
+	text-decoration: underline;
+	color: #f00
+	}
+a:active {
+	text-decoration: none
+    }
+
